@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdHoc", "AdHoc\AdHoc.csproj", "{6DD25F44-794A-4A69-8C93-82EDA56764C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD25F44-794A-4A69-8C93-82EDA56764C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD25F44-794A-4A69-8C93-82EDA56764C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD25F44-794A-4A69-8C93-82EDA56764C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD25F44-794A-4A69-8C93-82EDA56764C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE98FD6A-E038-47BF-9E09-D3C1D4978D60}
+	EndGlobalSection
+EndGlobal
